@@ -39,6 +39,8 @@ Estruture o texto em introdução, desenvolvimento e conclusão.
 
 Caso possível, relacione com fatos históricos reais para fundamentar a análise.
 
+RESULTADO:
+
 📖 O Crepúsculo da Liberdade
 Uma Reflexão sobre a Distopia da Vitória Nazista
 📝 Sobre o Projeto
