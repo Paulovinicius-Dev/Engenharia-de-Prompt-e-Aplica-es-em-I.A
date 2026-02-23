@@ -1,5 +1,11 @@
-📖 Proposta de Escrita
-📝 Tema
+Repositório para atividades da matéria de Engernharia de prompt e Aplicaões em I.A da faculdade UDF.
+
+Primeira atividade: Criar um prompt simples.
+
+<img width="1228" height="300" alt="image" src="https://github.com/user-attachments/assets/dfec466d-68eb-4e5d-aa9b-2c4aba3e1306" />
+
+
+📖 Proposta de Escrita📝 Tema
 
 Como seria o mundo se Adolf Hitler tivesse vencido a Segunda Guerra Mundial?
 
